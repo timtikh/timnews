@@ -35,6 +35,8 @@
 ## Скриншоты
 ![alt text](https://raw.githubusercontent.com/timtikh/timnews/master/Screenshot_20240220_145354.png)
 ![alt text](https://raw.githubusercontent.com/timtikh/timnews/master/Screenshot_20240220_145431.png)
+![alt text](https://raw.githubusercontent.com/timtikh/timnews/master/photo_2024-02-20_17-57-55.jpg)
+![alt text](https://raw.githubusercontent.com/timtikh/timnews/master/photo_2024-02-20_17-58-09.jpg)
 
 ## Видео
 [Screen_recording_20240220_145557.webm](Screen_recording_20240220_145557.webm)
